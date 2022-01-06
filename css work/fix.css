@@ -1,0 +1,12 @@
+div{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    position: sticky;
+    top: 100px;
+    
+}
+/* relative
+absulate
+fixed
+sticky */

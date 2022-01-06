@@ -1,0 +1,43 @@
+#language fundamnetals
+    1)coding standards
+    2)identifiers
+    3)variables
+    4)operators
+
+#flowcontrolls
+    1)decision making statement
+    2)looping statement
+
+#functions
+    1)arrowfunctions
+    2)callstack
+
+#arrays
+    1)programs
+    2)array methods
+
+#objects
+    1)programs
+    2)hoisting
+    3)coersion
+    4)prototypal inheritance
+    5)closures
+
+#objectOrientedProgramming
+    1)inheritance
+    2)polynorphism
+
+#documentObjectModels
+    1)properties and methods
+    2)working with apis
+    3)post man 
+    4)xmlhttprequest
+    5)fetch
+    6)event lopp.call backs
+    7)promises
+    8)async avait
+
+#error handling
+
+        get_name=>python snake case
+        getName=>java,javascript camel case

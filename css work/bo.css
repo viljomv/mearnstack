@@ -1,0 +1,40 @@
+div{
+    height: 570px;
+     width: 20%;
+    background-color: burlywood;
+    float: left;
+    margin-left: 100px;
+    padding: RIGHT;
+}
+img{
+    width: 50%;
+    align-content: center;
+}
+a1{
+    text-decoration: cadetblue underline;
+}
+body{
+    background-color: darkturquoise;
+}
+.b1{
+    color: darkred;
+}
+img{
+    width: 50%;
+    margin-left: 50px;
+}
+#a3{
+    color: deeppink;
+}
+a2{
+    color: darkviolet;
+}
+#a4{
+    color: firebrick;
+}
+.b2{
+    color: green;
+}
+h1{
+    color: green;
+}

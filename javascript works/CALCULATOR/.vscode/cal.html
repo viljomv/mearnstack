@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./cal.css">
+ <script src="./script.js"></script>
+</head>
+<body>
+    <div class="main-body">
+        <div class="calc">
+            <div class="output">
+               <input type="text" id="result" class="screen">
+
+
+            </div>
+            <div class="buttons">
+                 <div class="row">
+                    <button class="btn" onclick="displauNum('7')">7</button>
+                    <button class="btn" onclick="displauNum('8')">8</button>
+                    <button class="btn" onclick="displauNum('9')">9</button>
+                    <button class="btn" onclick="displauNum('*')">*</button>
+
+                 </div>
+                 <div class="row">
+                    <button class="btn" onclick="displauNum('4')">4</button>
+                    <button class="btn" onclick="displauNum('5')">5</button>
+                    <button class="btn" onclick="displauNum('6')">6</button>
+                    <button class="btn" onclick="displauNum('-')">-</button>
+                    
+                 </div>
+                 <div class="row">
+                    <button class="btn" onclick="displauNum('1')">1</button>
+                    <button class="btn"onclick="displauNum('2')">2</button>
+                    <button class="btn"onclick="displauNum('3')">3</button>
+                    <button class="btn"onclick="displauNum('+')">+</button>
+                    
+                </div>
+                <div class="row">
+                    <button class="btn"onclick="clearBox()">c</button>
+                    <button class="btn"onclick="displauNum('0')">0</button>
+                    <button class="btn"onclick="displauNum('.')">.</button>
+                    <button class="btn"onclick="evaluateExpression()">=</button>
+                    
+                </div>
+                <button class="btn"onclick="deleteExpression()">D</button>
+
+
+
+            </div>
+
+        </div>
+
+    </div>
+</body>
+</html>

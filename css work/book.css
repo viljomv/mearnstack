@@ -1,0 +1,19 @@
+div{
+    height: 500px;
+    width: 45%;
+    background-color: blue;
+    border: brown solid 3px;
+    float: left;
+    outline: solid;
+}
+img{
+    width: 20%;
+}
+#a1{
+    color: cyan;
+    text-align: center;
+    text-decoration: underline black 2px;
+}
+li{
+    background-color:yellow;
+}

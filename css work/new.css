@@ -1,0 +1,19 @@
+div{
+    height: 100px;
+    width: 200px;
+}
+#a1{
+    height: 200px;
+    width: 200px;
+    background-color: blanchedalmond;
+}
+#a2{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    margin-left: 300px;
+    margin-top: -202px;
+}
+h1{
+    text-align: right;
+}

@@ -1,0 +1,18 @@
+.parent{
+    border: black solid 3px;
+    background-color: blue;
+    height: 200px;
+    width: 500px;
+    position: relative;
+    /* static relative absulate fixed sticky */
+}
+.child{
+    position: absolute;
+    left: 100%;
+    width: 300px;
+    height: 100px;
+    background-color: brown;
+}
+body{
+    background-color: black;
+}

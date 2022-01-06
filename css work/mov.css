@@ -1,0 +1,17 @@
+#parent{
+    background-color: blue;
+    height: 720px;
+    width: 15%;
+    border: solid black 3px;
+    margin-left: 15px;
+    float: left;
+}
+#child{
+    border: black solid 5px;
+    padding-left: 50px;
+
+}
+img{
+    width: 50px;
+    padding: 50px;
+}

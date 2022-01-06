@@ -1,0 +1,94 @@
+.header{
+    height: 70px;
+    background-color: rgb(110, 64, 64);
+    border: rgb(109, 108, 55) solid 3px;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    overflow: hidden;
+    color:green;
+
+}
+li{
+    float: left;
+}
+li a{
+    padding: 20px;
+}
+nav{
+    background-color:black;
+}
+.p1{
+    /* text-align: center; */
+    padding: 50px;
+    color: black;
+}
+.im{
+    height:276px;
+    width: 15%;
+}
+img{
+    margin-left: 200px;
+}
+.h{
+    text-align: center;
+    color: black;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.p2{
+    padding: 50px;
+    color: black;
+}
+.i{
+    height: 300px;
+    width: 25%;
+}
+.e{
+    height: 300px;
+    width: 25%;
+}
+.body{
+    background-color:rgb(247, 217, 222);
+}
+.pic{
+    height: 206px;
+    width: 278px;
+    padding-bottom: 20px;
+}
+h1{
+    text-align: center;
+    text-underline-offset: below;
+}
+.reg{
+    text-align: center;
+    height: 426px;
+    width: 70%;
+    background-color:rgb(202, 175, 179);
+    margin-left: 250px;
+    color: cornsilk;
+    border: cornsilk solid 2px;
+}
+.foo{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(231, 203, 203);
+    padding: 50px;
+    float: left;
+}
+.oof{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 400px;
+    margin-left: 200px;
+    
+}
+.puf{
+    margin-right: 200px;
+}
